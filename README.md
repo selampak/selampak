@@ -1,6 +1,7 @@
 # Selampak
 
-![Github](https://github-readme-stats.vercel.app/api?username=selampak&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selampak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Github](https://github-readme-stats.vercel.app/api?username=selampak&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selampak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # HAKKIMDA
 * **Lise 2. Sınıfa Giden Biz Öğrenciyim Boş Zamanlarımda Elimden Geleni Yapmaya Çalışıyorum**
